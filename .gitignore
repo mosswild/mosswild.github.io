@@ -1,0 +1,17 @@
+# Dependencies & Build output
+quartz/node_modules/
+quartz/public/
+quartz/.quartz-cache/
+node_modules/
+public/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Obsidian local state & cache (keep settings, ignore local UI state)
+.obsidian/workspace*
+.obsidian/cache/
+
+# Private notes
+private/
