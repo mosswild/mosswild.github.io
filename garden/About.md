@@ -5,12 +5,15 @@ tags:
   - meta
 ---
 
-# About Mosswild 🌿
+# About Mosswild
 
-Mosswild is an evolving digital garden of thoughts, software experiments, and personal reflections.
+Mosswild is an open notebook and digital garden tracking hands-on crafts, hardware builds, software experiments, and spontaneous ideas.
 
-## Core Ideas
-- **Non-linear thinking**: Thoughts connect across domains through wikilinks.
-- **Continuous growth**: Notes start as seeds and grow into mature evergreen notes.
+## Profiles & External Links
+- **3D Printing**: [Thingiverse (@mosswildsmade)](https://www.thingiverse.com/mosswildsmade/designs)
+- **Pottery & Glazes**: [Glazy (@peregrin5)](https://glazy.org/peregrin5)
+- **Code & Repositories**: [GitHub (@mosswild)](https://github.com/mosswild)
+
+---
 
 Return to [[index|Home]].

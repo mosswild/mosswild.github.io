@@ -23,6 +23,7 @@ A personal digital garden and notebook for projects, crafts, builds, and random 
   - [[projects/software/qr8|QR8]] — Distraction-free video curator for focused practice and routines
 - **3D Printing**:
   - [[projects/3d-printing/govee-light-covers|Govee Light Covers]] — Custom mounts interfacing with cable housing for painting
+  - [Thingiverse Designs ↗](https://www.thingiverse.com/mosswildsmade/designs) — 3D models and printable files
 - [[projects/fpv/gear-and-builds|FPV]] — Quad builds, tuning notes, and hardware specs
 - [[projects/vlog/channel-ideas|Vlog]] — Ideas, outlines, and video production notes
 
