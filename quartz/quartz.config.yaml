@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: localhost
+  baseUrl: mosswild.github.io
   ignorePatterns:
     - private
     - templates

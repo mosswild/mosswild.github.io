@@ -1,1 +1,7 @@
-{}
+{
+  "userIgnoreFilters": [
+    "quartz/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "garden"
+}
