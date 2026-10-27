@@ -12,6 +12,7 @@ Thumbs.db
 # Obsidian local state & cache (keep settings, ignore local UI state)
 .obsidian/workspace*
 .obsidian/cache/
+.obsidian/plugins/
 
 # Private notes
 private/
