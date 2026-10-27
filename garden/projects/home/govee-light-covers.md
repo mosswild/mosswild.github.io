@@ -1,9 +1,9 @@
 ---
 title: "Govee Light Covers & Cable Housing"
 tags:
+  - home
   - 3d-printing
-  - hardware
-  - home-improvement
+  - lighting
 ---
 
 # Govee Light Covers & Cable Housing

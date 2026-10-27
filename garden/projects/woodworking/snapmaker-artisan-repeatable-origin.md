@@ -77,5 +77,5 @@ This project solves repeatability through a tight integration between **physical
 
 ## Interconnected Notes
 
-- [[projects/3d-printing/govee-light-covers|Govee Light Covers & 3D Printing]]
+- [[projects/home/govee-light-covers|Govee Light Covers]]
 - [[projects/woodworking/workshop-setup|Woodworking & Workshop Setup]]
