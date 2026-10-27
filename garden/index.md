@@ -21,6 +21,9 @@ A personal digital garden and notebook for projects, crafts, builds, and random 
   - [[projects/software/garmin-camcmd|CamCommand (WIP)]] — Direct BLE camera remote for Garmin Instinct 3 & Lumix G95
   - [[projects/software/property-mcp|Property Intelligence MCP]] — Open-source parcel & environmental MCP server
   - [[projects/software/qr8|QR8]] — Distraction-free video curator for focused practice and routines
+- **3D Printing**:
+  - [[projects/3d-printing/govee-light-covers|Govee Light Covers]] — Custom mounts interfacing with cable housing for painting
+- [[projects/fpv/gear-and-builds|FPV]] — Quad builds, tuning notes, and hardware specs
 - [[projects/vlog/channel-ideas|Vlog]] — Ideas, outlines, and video production notes
 
 ## [[random-thoughts/the-72-hour-gear-rule|Random Thoughts]]
