@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Fraunces
+      body: Plus Jakarta Sans
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#FAF7EE"
+        lightgray: "#E8E2D2"
+        gray: "#A5A090"
+        darkgray: "#363A36"
+        dark: "#1A2E20"
+        secondary: "#2D6A4F"
+        tertiary: "#52B788"
+        highlight: "rgba(45, 106, 79, 0.12)"
+        textHighlight: "#FFE66D88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#121A15"
+        lightgray: "#202E26"
+        gray: "#5E7567"
+        darkgray: "#D3DCD5"
+        dark: "#E8F0EA"
+        secondary: "#52B788"
+        tertiary: "#74C69D"
+        highlight: "rgba(82, 183, 136, 0.15)"
+        textHighlight: "#52B78855"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -113,7 +113,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: pine-forest-berry
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true

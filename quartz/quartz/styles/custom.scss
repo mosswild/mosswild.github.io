@@ -1,3 +1,177 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Connect Obsidian theme variables to Quartz layout
+body {
+  background-color: var(--background-primary, var(--light)) !important;
+  color: var(--text-normal, var(--darkgray));
+}
+
+.center, article, p, li {
+  color: var(--text-normal, var(--darkgray));
+}
+
+h1 {
+  color: var(--text-title-h1, var(--dark));
+}
+
+h2 {
+  color: var(--text-title-h2, var(--dark));
+}
+
+h3 {
+  color: var(--text-title-h3, var(--dark));
+}
+
+h4 {
+  color: var(--text-title-h4, var(--dark));
+}
+
+h5 {
+  color: var(--text-title-h5, var(--dark));
+}
+
+h6 {
+  color: var(--text-title-h6, var(--dark));
+}
+
+a.internal {
+  color: var(--link-color, var(--secondary));
+}
+
+// Tag styling: rounded squares / terminal chips
+a.tag-link,
+a.internal.tag-link,
+.note-properties-tags a,
+.tags a,
+.tag-list a,
+.pill,
+span.note-properties-tags a {
+  border-radius: 4px !important;
+  --tag-radius: 4px !important;
+  --pill-radius: 4px !important;
+  padding: 0.12em 0.5em !important;
+  display: inline-block;
+  line-height: 1.4;
+}
+
+/* ========================================================
+   RETRO CRT SCANLINES & PHOSPHOR EFFECTS (Scoped Presets)
+   ======================================================== */
+
+// Scoped CRT raster scanline overlay
+body.theme-amber-crt::after,
+body.theme-moss-crt::after {
+  content: " ";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: 
+    linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.35) 50%),
+    linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+  z-index: 99999;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
+
+/* --------------------------------------------------------
+   THEME 1: AMBER CRT (Saved Preset)
+   -------------------------------------------------------- */
+body.theme-amber-crt {
+  --background-primary: #0a0805 !important;
+  --background-secondary: #120e08 !important;
+  --light: #0a0805 !important;
+  --lightgray: #1a140b !important;
+  --dark: #ffb833 !important;
+  --darkgray: #ff9e00 !important;
+  --secondary: #ffc247 !important;
+  --tertiary: #ffa31a !important;
+  --text-normal: #ffaa1d !important;
+  --text-title-h1: #ffcf66 !important;
+  --link-color: #ffaa1d !important;
+  --codeFont: "JetBrains Mono", "IBM Plex Mono", monospace;
+  --bodyFont: "JetBrains Mono", "IBM Plex Mono", monospace;
+  --headerFont: "JetBrains Mono", "IBM Plex Mono", monospace;
+
+  background-color: #0a0805 !important;
+  color: #ffaa1d !important;
+
+  // Phosphor text glow
+  article, p, li, h1, h2, h3, h4, h5, h6, .page-header, .sidebar, a {
+    text-shadow: 0 0 1px rgba(255, 170, 29, 0.8), 0 0 5px rgba(255, 158, 0, 0.35);
+  }
+
+  h1, h2, h3 {
+    color: #ffcf66 !important;
+    text-shadow: 0 0 2px rgba(255, 207, 102, 0.9), 0 0 8px rgba(255, 184, 51, 0.5);
+  }
+
+  a.internal {
+    color: #ffcf66 !important;
+    text-decoration: underline;
+  }
+
+  .sidebar {
+    background-color: #120e08 !important;
+    border-right: 1px solid rgba(255, 170, 29, 0.25) !important;
+  }
+
+  pre, code {
+    background-color: #161109 !important;
+    border: 1px solid rgba(255, 170, 29, 0.3) !important;
+    color: #ffbe4d !important;
+  }
+}
+
+/* --------------------------------------------------------
+   THEME 2: FOREST MOSS CRT (Dark)
+   -------------------------------------------------------- */
+body.theme-moss-crt {
+  --background-primary: #08120b !important;
+  --background-secondary: #0d1c12 !important;
+  --light: #08120b !important;
+  --lightgray: #132b1b !important;
+  --dark: #a7f3d0 !important;
+  --darkgray: #c6f6d5 !important;
+  --secondary: #bbf7d0 !important;
+  --tertiary: #86efac !important;
+  --text-normal: #a7f3d0 !important;
+  --text-title-h1: #e6f9f0 !important;
+  --link-color: #bbf7d0 !important;
+  --codeFont: "JetBrains Mono", "IBM Plex Mono", monospace;
+  --bodyFont: "JetBrains Mono", "Plus Jakarta Sans", monospace;
+  --headerFont: "JetBrains Mono", monospace;
+
+  background-color: #08120b !important;
+  color: #a7f3d0 !important;
+
+  // Softer, dreamy pastel phosphor glow
+  article, p, li, h1, h2, h3, h4, h5, h6, .page-header, .sidebar, a {
+    text-shadow: 0 0 1px rgba(167, 243, 208, 0.85), 0 0 5px rgba(187, 247, 208, 0.3);
+  }
+
+  h1, h2, h3 {
+    color: #e6f9f0 !important;
+    text-shadow: 0 0 2px rgba(230, 249, 240, 0.95), 0 0 8px rgba(167, 243, 208, 0.5);
+  }
+
+  a.internal {
+    color: #bbf7d0 !important;
+    text-decoration: underline;
+  }
+
+  .sidebar {
+    background-color: #0d1c12 !important;
+    border-right: 1px solid rgba(167, 243, 208, 0.22) !important;
+  }
+
+  pre, code {
+    background-color: #11241a !important;
+    border: 1px solid rgba(167, 243, 208, 0.25) !important;
+    color: #d1fae5 !important;
+  }
+}
+
+
