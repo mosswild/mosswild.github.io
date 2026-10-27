@@ -10,7 +10,8 @@ tags:
 
 Custom 3D printed mounting covers designed for Govee permanent/outdoor lights that integrate directly with cable raceway housing for clean mounting and future paint matching.
 
-- **Thingiverse Designs**: [thingiverse.com/mosswildsmade/designs](https://www.thingiverse.com/mosswildsmade/designs)
+- **Thingiverse Model & Files**: [thingiverse.com/thing:7294564](https://www.thingiverse.com/thing:7294564)
+- **Maker Profile**: [thingiverse.com/mosswildsmade/designs](https://www.thingiverse.com/mosswildsmade/designs)
 
 ---
 
