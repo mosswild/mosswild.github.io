@@ -57,6 +57,3 @@ Unlike standard BLE peripherals, the Lumix G95 omits standard `0x2902` Client Ch
 ---
 
 ## Interconnected Notes
-
-- [[projects/vlog/channel-ideas|Vlog Production & Gear Setup]]
-- [[projects/software/vibecoding-notes|Vibecoding Workflows]]

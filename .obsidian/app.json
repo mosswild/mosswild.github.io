@@ -3,5 +3,6 @@
     "quartz/"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "garden"
+  "newFileFolderPath": "garden",
+  "attachmentFolderPath": "garden/attachments"
 }

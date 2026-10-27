@@ -49,6 +49,3 @@ Centrd is designed around **speed at the wheel**: minimal taps, quick weight log
 ---
 
 ## Interconnected Notes
-
-- [[projects/pottery/glaze-notes|Pottery Glaze & Studio Notes]]
-- [[projects/software/vibecoding-notes|Vibecoding Workflows]]

@@ -10,7 +10,10 @@ A personal digital garden and notebook for projects, crafts, builds, and random 
 
 ## Projects
 
-- [[projects/pottery/glaze-notes|Pottery]] — Glaze recipes, clay bodies, and throwing notes
+- **Pottery**:
+  - [[projects/pottery/current-glazes|Current Glazes]] — Studio glaze inventory and Glazy recipes
+  - [[projects/pottery/plaster-forms-3d-printed-molds|Plaster Forms & 3D Printed Molds]] — Mold jackets and plaster casting
+  - [[projects/pottery/glaze-notes|Glaze & Studio Notes]] — Test logs and firing observations
 - [[projects/woodworking/workshop-setup|Woodworking]] — Shop jigs, builds, and finish experiments
 - **Software**:
   - [[projects/software/centrd|Centrd]] — Self-hosted pottery throwing diary
