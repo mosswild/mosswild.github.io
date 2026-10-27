@@ -11,27 +11,27 @@ body {
 }
 
 h1 {
-  color: var(--text-title-h1, var(--dark));
+  color: var(--h1-color, var(--text-title-h1, var(--dark)));
 }
 
 h2 {
-  color: var(--text-title-h2, var(--dark));
+  color: var(--h2-color, var(--text-title-h2, var(--dark)));
 }
 
 h3 {
-  color: var(--text-title-h3, var(--dark));
+  color: var(--h3-color, var(--text-title-h3, var(--dark)));
 }
 
 h4 {
-  color: var(--text-title-h4, var(--dark));
+  color: var(--h4-color, var(--text-title-h4, var(--dark)));
 }
 
 h5 {
-  color: var(--text-title-h5, var(--dark));
+  color: var(--h5-color, var(--text-title-h5, var(--dark)));
 }
 
 h6 {
-  color: var(--text-title-h6, var(--dark));
+  color: var(--h6-color, var(--text-title-h6, var(--dark)));
 }
 
 a.internal {
