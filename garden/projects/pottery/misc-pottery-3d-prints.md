@@ -24,6 +24,9 @@ tags:
   - **Airflow Hole**: Unlike solid commercial cones, features an open center hole that allows air to circulate inside the vessel, preventing uneven drying or moisture trapping.
   - **Stackable / Nesting**: Omits top-heavy handles so multiple cones nest compactly in studio bins.
   - **Integrated Finger Grip**: The central air hole doubles as a natural finger pull for gentle lifting without bumping delicate clay lips.
+- Interestingly one of my most basic and first designs and got to be one of my most popular on Thingiverse. It's literally a cone y'all.
+
+![[misc-pottery-3d-prints-20261027-01.png]]
 
 ---
 
