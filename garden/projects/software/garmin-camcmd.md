@@ -12,6 +12,9 @@ tags:
 
 > *Status: In Active Development (WIP) — Reverse-Engineering Panasonic Lumix BLE Protocol*
 
+![[garmin-camcmd-launcher-icon.png]]
+*CamCommand Garmin Connect IQ application icon for Instinct 3 Solar.*
+
 **CamCommand** is a custom Garmin Connect IQ application for the **Garmin Instinct 3 Solar (45mm)** designed to provide direct, phone-free Bluetooth Low Energy (BLE) remote control and 1 Hz GPS geotagging for a **Panasonic Lumix DC-G95 (`G95D`)** mirrorless camera.
 
 ---

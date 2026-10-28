@@ -26,6 +26,9 @@ YouTube is the world's greatest instructional library, but its user interface is
 
 QR8 strips away all the algorithmic noise, providing a clean, quiet cinema viewer dedicated strictly to the playlist or routine you chose.
 
+![[qr8-workspace-portal.png]]
+*Workspace portal for switching between disciplines without algorithmic feeds or distractions.*
+
 ---
 
 ## Core Features
@@ -34,6 +37,15 @@ QR8 strips away all the algorithmic noise, providing a clean, quiet cinema viewe
 - **Distraction-Free Cinema Player**: Full-screen video player without recommendations, comments, or related videos.
 - **Dynamic Blended Thumbnails**: Clean visual cards with live video and creator counts.
 - **Self-Hostable Single Container**: Runs on Docker with a local SQLite database and zero external analytics.
+
+![[qr8-distraction-free-player.png]]
+*Cinema player interface stripped of suggested videos, clickbait, and comment sections.*
+
+![[qr8-curated-playlists.png]]
+*Curated playlists and channel libraries categorized by technique and discipline.*
+
+![[qr8-pick-for-today.png]]
+*"Pick for Today" focused routine launcher for consistent physical and creative practice.*
 
 ---
 

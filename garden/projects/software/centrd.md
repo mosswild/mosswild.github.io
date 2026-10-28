@@ -23,6 +23,9 @@ Most pottery tracking apps either push expensive subscriptions or suffer from bl
 
 Centrd is designed around **speed at the wheel**: minimal taps, quick weight logging, and photo capture that can be categorized later.
 
+![[centrd-dashboard.jpeg]]
+*Centrd throwing dashboard displaying active challenge progress and quick-log metrics.*
+
 ---
 
 ## Core Features
@@ -35,6 +38,12 @@ Centrd is designed around **speed at the wheel**: minimal taps, quick weight log
 - **Flexible Decimal Weights**: Log in precise decimal weights (`1.3 lb` or `0.8 kg`) with automatic mapping to target weight categories.
 - **ZIP Backup & Rebuild**: Full export and import of journals, markdown logs, and photos into a portable archive.
 - **Multi-Potter Support**: Multiple isolated potter profiles on a single shared studio server.
+
+![[centrd-history-logbook.jpeg]]
+*Chronological logbook view recording weights, throwing notes, and piece stages.*
+
+![[centrd-sticky-notes.jpeg]]
+*Interactive sticky notes attached to individual pieces for kiln and glaze updates.*
 
 ---
 

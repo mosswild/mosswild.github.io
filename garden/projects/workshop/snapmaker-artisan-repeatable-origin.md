@@ -3,6 +3,7 @@ title: "Snapmaker Artisan Repeatable CNC Origin System"
 tags:
   - 3d-printing
   - cnc
+  - workshop
   - woodworking
   - fusion360
 ---
@@ -48,10 +49,16 @@ This project solves repeatability through a tight integration between **physical
 - Features a circular holster that houses a low-cost conductive Z-probe puck.
 - Fully parametric in Fusion 360 (`ProbeHeight` and `ProbeDiameter` user parameters allow adapting the fixture to any probe).
 
+![[snapmaker-origin-fixture-installed.jpeg]]
+*3D printed alignment rail and probe holster bolted to the Snapmaker Artisan spoilboard.*
+
 ### 2. Fusion 360 Modeling & CAM Workflow
 - The fixture component is imported directly into the Fusion 360 design as a hybrid assembly.
 - Material stock is snapped directly to the fixture's inner origin corner using a Fusion **Joint ($J$)**.
 - The WCS Origin is mapped to a pre-defined construction point at the center-top of the probe puck.
+
+![[snapmaker-origin-diagram.png]]
+*Coordinate relationship and stock alignment relative to the probe holster.*
 
 ### 3. Custom G-Code Post-Processor (`.cps`)
 - Standard post-processors might plunge or rapid-traverse across the rail, causing a crash.
@@ -63,6 +70,9 @@ This project solves repeatability through a tight integration between **physical
 - Jogging down until an audible continuity buzzer sounds sets exact Z-zero without marring stock.
 - The puck is slipped out before the job starts.
 
+![[snapmaker-origin-buzzer.jpeg]]
+*Compact standalone buzzer enclosure used for audible electrical continuity probing.*
+
 ---
 
 ## Hardware & Tooling
@@ -70,12 +80,12 @@ This project solves repeatability through a tight integration between **physical
 - **Machine**: Snapmaker Artisan (200W CNC Module)
 - **Fixturing**: 3D printed PETG/PLA+ rail with M4 mounting bolts
 - **Probe**: Conductive Z-probe disc with alligator grounding clip
-- **Continuity**: Standalone DIY piezo buzzer or multimeter continuity setting
+- **Continuity**: Standalone 3D-printed piezo buzzer enclosure ([Thingiverse #7305460 ↗](https://www.thingiverse.com/thing:7305460)) or multimeter continuity setting
 - **Software**: Autodesk Fusion 360 (CAD/CAM) + custom JavaScript post-processor
 
 ---
 
 ## Interconnected Notes
 
-- [[projects/home/govee-light-covers|Govee Light Covers]]
-- [[projects/woodworking/workshop-setup|Woodworking & Workshop Setup]]
+- [[projects/home/govee-light-covers|Govee Outdoor Lights]]
+- [[projects/workshop/workshop-setup|Workshop Setup & Jigs]]

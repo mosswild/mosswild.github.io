@@ -27,6 +27,12 @@ FTMS-Rower decouples the video playback engine from the audio track:
 - **Video Track**: Modulated continuously via Web Bluetooth telemetry from the rower flywheel.
 - **Audio Track**: Maintains a rock-solid $1.0\times$ playback speed regardless of whether you're idling at 18 SPM or sprinting at 34 SPM.
 
+![[ftms-rower-cockpit-pm5.png]]
+*Cockpit telemetry HUD featuring retro Concept2 PM5 monochrome metrics overlay.*
+
+![[ftms-rower-cockpit-neon.png]]
+*Neon cyberpunk cockpit theme with live stroke cadence, 500m split pace, and power graph.*
+
 ---
 
 ## Core Features
@@ -36,6 +42,12 @@ FTMS-Rower decouples the video playback engine from the audio track:
 - **Scenic Route Library**: Stream or cache curated river and water routes (e.g. Thames River, coastal waterways).
 - **PWA & Mobile Support**: Responsive dashboard designed for mounting a tablet or phone directly above the ergometer monitor.
 - **Docker-Ready**: Easy deployment on a local home server or Raspberry Pi.
+
+![[ftms-rower-home-workouts.png]]
+*Home dashboard with quick workout programs and hardware connection status.*
+
+![[ftms-rower-media-center.png]]
+*Media center library managing downloadable scenic video tracks and audio.*
 
 ---
 
