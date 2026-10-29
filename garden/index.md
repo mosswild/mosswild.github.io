@@ -20,7 +20,6 @@ A personal digital garden and notebook for projects, crafts, builds, and random 
   - [[projects/workshop/snapmaker-artisan-mods|Snapmaker Artisan Mods]] — Heavy-duty table, timelapse mount, and laser bed support
   - [[projects/workshop/snapmaker-artisan-repeatable-origin|Snapmaker Artisan Repeatable Origin]] — CNC rail fixture, Z-probe, and Fusion 360 post-processor ([Thingiverse #7301429 ↗](https://www.thingiverse.com/thing:7301429) & [Buzzer #7305460 ↗](https://www.thingiverse.com/thing:7305460))
   - [[projects/workshop/misc-workshop-3d-prints|Misc Workshop 3D Prints]] — Magnetic dust hose connector, Powertek T-track stops, and honing guide
-  - [[projects/workshop/workshop-setup|Workshop Setup]] — Shop jigs, builds, and finish experiments
 - **Home**:
   - [[projects/home/govee-light-covers|Govee Outdoor Lights]] — Node covers interfacing with cable housing & latching power brick holder ([Covers #7294564 ↗](https://www.thingiverse.com/thing:7294564) & [Power Brick #7164014 ↗](https://www.thingiverse.com/thing:7164014))
   - [[projects/home/barrel-pond|Patio Barrel Pond]] — Micro-ecosystem with parametric hanging aquatic planters ([Thingiverse #7358797 ↗](https://www.thingiverse.com/thing:7358797))
@@ -32,7 +31,6 @@ A personal digital garden and notebook for projects, crafts, builds, and random 
   - [[projects/software/property-mcp|Property Intelligence MCP]] — Open-source parcel & environmental MCP server
   - [[projects/software/qr8|QR8]] — Distraction-free video curator for focused practice and routines
 - [[projects/fpv/gear-and-builds|FPV]] — Quad builds, tuning notes, and hardware specs
-- [[projects/vlog/channel-ideas|Vlog]] — Ideas, outlines, and video production notes
 
 ## [[random-thoughts/the-72-hour-gear-rule|Random Thoughts]]
 Quick notes, observations, resonant media, and spontaneous ideas.
