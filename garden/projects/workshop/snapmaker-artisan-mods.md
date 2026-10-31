@@ -74,4 +74,5 @@ tags:
 - [[projects/workshop/snapmaker-artisan-repeatable-origin|Snapmaker Artisan Repeatable Origin System]]
 - [[projects/workshop/workshop-setup|Workshop Setup & Shop Jigs]]
 - [[projects/workshop/misc-workshop-3d-prints|Misc Workshop 3D Prints]]
+- [[projects/vlog/filming-gear|Filming Gear]]
 - [[projects/pottery/misc-pottery-3d-prints|3D Printed Pottery & Studio Tools]]

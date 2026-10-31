@@ -31,7 +31,7 @@ A personal digital garden and notebook for projects, crafts, builds, and random 
   - [[projects/software/property-mcp|Property Intelligence MCP]] — Open-source parcel & environmental MCP server
   - [[projects/software/qr8|QR8]] — Distraction-free video curator for focused practice and routines
 - [[projects/fpv/gear-and-builds|FPV]] — Quad builds, tuning notes, and hardware specs
-- [[projects/vlog/filming-gear|Filming Gear]] — Cameras, mobile video rigs, and action capture setups
+- [[projects/vlog/filming-gear|Filming Gear]] — Cameras and devices used for filming
 
 ## [[random-thoughts/the-72-hour-gear-rule|Random Thoughts]]
 Quick notes, observations, resonant media, and spontaneous ideas.

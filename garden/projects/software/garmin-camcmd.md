@@ -60,3 +60,5 @@ Unlike standard BLE peripherals, the Lumix G95 omits standard `0x2902` Client Ch
 ---
 
 ## Interconnected Notes
+
+- [[projects/vlog/filming-gear|Filming Gear]] — Lumix G95 camera hardware and filming setup.
