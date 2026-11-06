@@ -44,7 +44,9 @@ Hm. Actually based on my inspo pics, maybe dark clay is the way to go. Maybe I'l
 
 
 ![[holiday-pottery-gifts-2026-20261029-04.png]]
-The handle on the cone on this one is interesting. I suppose it doesn't really need a full handle. 
+The handle on the cone on this one is interesting. I suppose it doesn't really need a full handle.
+
+I threw 3 funnels and 3 jugs. 2 each in black clay and 1 each in red/brown clay. The way I did the trimming was interesting -- add a pic here.
 
 ---
 
