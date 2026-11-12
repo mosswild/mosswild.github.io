@@ -31,6 +31,7 @@ Most existing footage was recorded on these two devices:
 
 ## Related Projects
 
+- [[projects/vlog/deepfield|Deepfield]] — Footage organization database and media ingestion pipeline.
 - [[projects/software/garmin-camcmd|CamCommand]] — Garmin BLE remote application for controlling the Lumix G95.
 - [[projects/workshop/snapmaker-artisan-mods|Snapmaker Artisan Mods]] — 3D-printed bed mount fixture for the GoPro.
 - [[projects/fpv/gear-and-builds|FPV Gear and Builds]] — FPV quad fleet and flight cameras.
